@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookShopV2.Application/1.0.0": {
+        "dependencies": {
+          "BookkShopV2.Core": "1.0.0"
+        },
+        "runtime": {
+          "BookShopV2.Application.dll": {}
+        }
+      },
+      "BookkShopV2.Core/1.0.0": {
+        "runtime": {
+          "BookkShopV2.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookShopV2.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookkShopV2.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

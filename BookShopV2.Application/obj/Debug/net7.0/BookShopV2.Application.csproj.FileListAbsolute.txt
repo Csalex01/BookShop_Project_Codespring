@@ -1,0 +1,15 @@
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\bin\Debug\net7.0\BookShopV2.Application.deps.json
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\bin\Debug\net7.0\BookShopV2.Application.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\bin\Debug\net7.0\BookShopV2.Application.pdb
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\bin\Debug\net7.0\BookkShopV2.Core.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\bin\Debug\net7.0\BookkShopV2.Core.pdb
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.csproj.AssemblyReference.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.AssemblyInfoInputs.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.AssemblyInfo.cs
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.csproj.CoreCompileInputs.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.csproj.CopyComplete
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\refint\BookShopV2.Application.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\BookShopV2.Application.pdb
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookShopV2.Application\obj\Debug\net7.0\ref\BookShopV2.Application.dll

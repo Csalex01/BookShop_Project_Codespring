@@ -1,0 +1,12 @@
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\bin\Debug\net7.0\BookkShopV2.Core.deps.json
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\bin\Debug\net7.0\BookkShopV2.Core.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\bin\Debug\net7.0\BookkShopV2.Core.pdb
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.csproj.AssemblyReference.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.AssemblyInfoInputs.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.AssemblyInfo.cs
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\refint\BookkShopV2.Core.dll
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\BookkShopV2.Core.pdb
+C:\Users\csill\Documents\Codespring\REST\BookShopV2_Clean_Architecture\BookkShopV2.Core\obj\Debug\net7.0\ref\BookkShopV2.Core.dll

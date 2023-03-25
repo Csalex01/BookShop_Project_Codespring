@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookkShopV2.Core/1.0.0": {
+        "runtime": {
+          "BookkShopV2.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookkShopV2.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
